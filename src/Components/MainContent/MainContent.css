@@ -1,0 +1,47 @@
+.menuBar{
+
+    border-bottom:1px solid;
+
+}
+
+ .menuBar .CategoryName{
+    font-weight: bold;
+    color:#3780cef5;
+    text-decoration: none;
+    display:block
+}
+.menuBar .CategoryItemName{
+    display: inline-block;
+    width: auto;
+    color: #000;
+    padding: 5px 11px;
+    text-decoration: none;
+}
+.menuBar .dropdown-menu {
+    width: 350px;
+    padding: 10px;
+}
+.menuBar .dropdown.nav-item{
+    width:130px;
+}
+.menuBar .navbar-nav{
+    margin :0 auto;
+}
+.menuBar .dropdown-divider{
+    border-color:#3780cef5
+}
+.menuBar .navbar-light .navbar-nav .nav-link{
+    color:#3780cef5;
+    font-weight: bold;
+}
+.menuBar .dropdown-toggle::after{
+    vertical-align: middle;
+}
+.menuBar .dropdown-item.active,
+.menuBar .dropdown-item:active,
+.menuBar .dropdown-item:hover{
+    background-color:#3780cef5;
+    color:#fff;
+}
+
+ 

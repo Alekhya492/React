@@ -1,0 +1,33 @@
+.header{
+    background-color: #3780cef5;
+}
+.header .row{
+    padding:0.5em;
+    width:80%;
+    margin :0 auto
+}
+.header form{
+    width:100%
+}
+.header form input{
+    width:80% !important;
+}
+.header form,.header div>button{
+    margin: 6px 0;
+    display:inline-block;
+}
+.header button,.header button:hover{
+    background-color: #fff;
+    color:#3780cef5;
+    font-weight: 700;
+}
+.header .logo{
+    height:50px;
+    width:60%;
+}
+.header .cart,
+.header .cart:hover{
+    background:transparent;
+    color:#fff;
+    border:none
+}

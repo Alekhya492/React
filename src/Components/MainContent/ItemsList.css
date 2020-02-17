@@ -1,0 +1,61 @@
+.cardList{
+    padding:2em
+}
+.cardList.homePage{
+    width:80%;
+    margin :0 auto;
+    padding:0em 1em 1em
+}
+.cardList span{
+    font-size:12px;
+}
+.cardList .badge{
+    background-color: green;
+    Color:#fff;
+    padding:0.5em;
+    margin-right:10px
+}
+.cardList h2.catalogName{
+    background-color: #3780cef5;
+    color:#fff;
+    font-size:20px;
+    padding:5px 10px;
+    margin-top:20px;
+}
+.cardList .card{
+   border: 1px solid #000;
+   padding:0.2em 0;
+   margin-bottom:1.5em
+}
+.cardList .card-body{
+    padding:0.5em;
+}
+.cardList .card-title,.cardList h4{
+    color: #3780cef5;
+    font-weight:600;
+}
+.cardList .amountData{
+    font-weight: bolder;
+}
+.cardList a{
+    text-decoration: none;
+    color:inherit;
+}
+.cardList .alert-info{
+    padding:0.5em;
+    font-size: 0.75em;
+    width: 35%;
+    text-align: center;
+}
+.cardList.homePage .card{
+    border:none;
+}
+.cardList.homePage .card-body{
+    text-align:center; 
+}
+.cardList.homePage .card-title,.cardList.homePage  .cardList h4{
+    font-size:1em  
+}
+.filterComponent{
+    border-right:1px solid #ccc
+}

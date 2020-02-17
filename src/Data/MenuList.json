@@ -1,0 +1,364 @@
+[
+  {
+    "itemId": 1,
+    "title": "Electronics",
+    "links": [
+      {
+        "sublinks": [
+          {
+            "type": "Mobiles"
+          },
+          {
+            "submenu": [
+              {
+                "title": "sony",
+                "href": "http://google.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "micromax",
+                "href": "http://google.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "samsung",
+                "href": "http://google.com/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sublinks": [
+          {
+            "type": "Laptops"
+          },
+          {
+            "submenu": [
+              {
+                "title": "apple",
+                "href": "http://google.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "dell",
+                "href": "http://google.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "lenovo",
+                "href": "http://google.com/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sublinks": [
+          {
+            "type": "Tablets"
+          },
+          {
+            "submenu": [
+              {
+                "title": "google",
+                "href": "http://google.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "samsung",
+                "href": "http://google.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "sony",
+                "href": "http://google.com/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sublinks": [
+          {
+            "type": "TV"
+          },
+          {
+            "submenu": [
+              {
+                "title": "lg",
+                "href": "http://google.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "samsung",
+                "href": "http://google.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "sony",
+                "href": "http://google.com/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemId": 2,
+    "title": "Media",
+    "links": [
+      {
+        "sublinks": [
+          {
+            "type": "Audio"
+          },
+          {
+            "submenu": [
+              {
+                "title": "pop",
+                "href": "http://yahoo.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "devotional",
+                "href": "http://yahoo.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "folk",
+                "href": "http://google.com/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sublinks": [
+          {
+            "type": "Vedio"
+          },
+          {
+            "submenu": [
+              {
+                "title": "english",
+                "href": "http://yahoo.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "tamil",
+                "href": "http://yahoo.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "telugu",
+                "href": "http://google.com/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sublinks": [
+          {
+            "type": "Games"
+          },
+          {
+            "submenu": [
+              {
+                "title": "adventure",
+                "href": "http://yahoo.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "action",
+                "href": "http://yahoo.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "racing",
+                "href": "http://google.com/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemId": 3,
+    "title": "Men",
+    "links": [
+      {
+        "sublinks": [
+          {
+            "type": "Sunglasses"
+          },
+          {
+            "submenu": [
+              {
+                "title": "raybon",
+                "href": "http://bing.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "fastrack",
+                "href": "http://bing.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "gucci",
+                "href": "http://google.com/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sublinks": [
+          {
+            "type": "Footwear"
+          },
+          {
+            "submenu": [
+              {
+                "title": "puma",
+                "href": "http://bing.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "reebok",
+                "href": "http://bing.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "adidas",
+                "href": "http://google.com/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sublinks": [
+          {
+            "type": "Watches"
+          },
+          {
+            "submenu": [
+              {
+                "title": "rolex",
+                "href": "http://bing.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "titan",
+                "href": "http://bing.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "casio",
+                "href": "http://bing.com/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemId": 4,
+    "title": "Women",
+    "links": [
+      {
+        "sublinks": [
+          {
+            "type": "HandBags"
+          },
+          {
+            "submenu": [
+              {
+                "title": "lee",
+                "href": "http://dogpile.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "puma",
+                "href": "http://dogpile.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "fastrack",
+                "href": "http://bing.com/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sublinks": [
+          {
+            "type": "Jewellary"
+          },
+          {
+            "submenu": [
+              {
+                "title": "joy alukas",
+                "href": "http://dogpile.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "tanishq",
+                "href": "http://dogpile.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "kpj",
+                "href": "http://bing.com/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sublinks": [
+          {
+            "type": "Goggles"
+          },
+          {
+            "submenu": [
+              {
+                "title": "fastrack",
+                "href": "http://dogpile.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "tommy",
+                "href": "http://dogpile.com/",
+                "target": "_blank"
+              },
+              {
+                "title": "clavin",
+                "href": "http://bing.com/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
